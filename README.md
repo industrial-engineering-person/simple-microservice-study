@@ -1,6 +1,8 @@
 # simple-microservice-study
 > Django-Flask-MYSQL-RabbitMQ를 사용한 간단한 마이크로서비스 구현 학습 코드입니다.
+  <br>
 > 온라인 주문 백엔드를 모티브로 작성하였습니다. 
+  <br>
 > 마이크로서비스 구현 이해가 목표이기에 프론트엔드는 생략하였습니다.
 
 
@@ -9,7 +11,7 @@
 > 2022.05.진행
 ### Architecture
 
-<img src=images/micro_architecture.png  width="80%"/>
+<img src=images/micro_architecture.png  width="60%"/>
 
 
   
