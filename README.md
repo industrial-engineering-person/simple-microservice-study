@@ -9,7 +9,7 @@
 > 2022.05.진행
 ### Architecture
 
-<img src=images/micro_architecture.png  width="30%"/>
+<img src=images/micro_architecture.png  width="80%"/>
 
 
   
